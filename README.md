@@ -1,10 +1,8 @@
 # Hi there, I'm Kartik 👋
 
-I'm a Computer Engineering student passionate about building scalable software, solving DSA problems, and exploring AI & Full-Stack Development.
-
 ## 🚀 Little Bit About Me
 
-- 💻 Computer Engineering Student
+I'm a Computer Engineering student passionate about building scalable software, solving DSA problems and willing to become a Good Engineer.
 
 ## 🛠️ Tech Stack
 
