@@ -105,7 +105,7 @@ I'm a **Computer Engineering student** passionate about building scalable softwa
 
 ### 💡 Motto
 
-> **Wake → Learn → Code → Debug → Build → Repeat 🚀**
+> **Wake → Learn → Code → Debug → Build → Repeat **
 
 </p>
 
