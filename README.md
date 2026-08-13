@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Engineering student** passionate about building scalable software, solving Data Structures & Algorithms problems, and willing to become Good Engineer....
+I'm a **Computer Engineering student** passionate about building scalable software, solving Data Structures & Algorithms problems, and willing to become Good Engineer.....
 
 ---
 
