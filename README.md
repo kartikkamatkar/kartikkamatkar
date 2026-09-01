@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/image.png" alt="Kartik Kamatkar" width="50%">
+  <img src="/image1.png" alt="Kartik Kamatkar" width="50%">
 </p>
 
 <h1 align="center">Hi, I'm Kartik 👋</h1>
