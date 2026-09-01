@@ -58,6 +58,8 @@ System Design    ████████░░░░░░░░░░░  Expl
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 ### ☕ Languages
@@ -98,6 +100,8 @@ System Design    ████████░░░░░░░░░░░  Expl
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 </p>
+
+</div>
 
 ---
 
