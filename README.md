@@ -5,12 +5,21 @@
   
   **An engineering student on a mission to build a better future in the world of 1s and 0s.**
   
-  <p align="center">
-    <a href="https://www.linkedin.com/in/kartik-kamatkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://leetcode.com/u/Kartik_Kamatkar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-    <a href="mailto:kartikkamatkar20@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    <img src="https://komarev.com/ghpvc/?username=kartikkamatkar&style=flat-square&color=007ACC" alt="Profile Views">
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kartik-kamatkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://leetcode.com/u/Kartik_Kamatkar/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+
+  <a href="mailto:kartikkamatkar20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=kartikkamatkar&style=for-the-badge&color=007ACC" alt="Profile Views">
+</p>
 </div>
 
 ### 🛠️ Technical Arsenal
