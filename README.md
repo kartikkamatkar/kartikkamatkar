@@ -10,10 +10,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn">
   </a>
 
-  <a href="https://leetcode.com/u/Kartik_Kamatkar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45" alt="LeetCode">
-  </a>
-
   <a href="mailto:kartikkamatkar20@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email">
   </a>
