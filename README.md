@@ -3,7 +3,7 @@
   
   # Hi, I'm Kartik Kamatkar 👋
   
-  **An engineering student on a mission to build a better future in the world of 1s and 0s.**
+  **An engineering student on a mission to build a better future in the world of 1s and 0s..**
   
 <p align="center">
   <a href="https://www.linkedin.com/in/kartik-kamatkar">
